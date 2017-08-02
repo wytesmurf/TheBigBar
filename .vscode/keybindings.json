@@ -1,0 +1,5 @@
+{
+  "key": "Alt+B",
+  "command": "HookyQR.beautify",
+  "when": "editorFocus"
+}

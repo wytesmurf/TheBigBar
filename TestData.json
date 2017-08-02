@@ -1,0 +1,39 @@
+{
+	"products":[
+	{
+		"key": 1,
+		"caption":"Boat",
+		"description":"Boat For Sale",
+		"location":"Little Rock, Ar",
+		"tradeforcategories":["Bike","Cooking"],
+		"tradeforspecifics":["Specialized", "Grill","Smoker"],
+		"img":"C:\\Test\\images\\CarForSale.jpg"
+		
+	
+	},
+	{
+		"key":2,
+		"caption":"Bike",
+		"description":"Bike For Sale",
+		"location":"Conway, Ar",
+		"tradeforcategories":["Boat","Car"],
+		"tradeforspecifics":["Master Craft","Mustange","Bass Boat"],
+		"img":"C:\\Test\\images\\BikeForSale.jpg"
+		
+	
+	},
+	{
+		"key":3,
+		"caption":"Car",
+		"description":"Car for Sale",
+		"location":"Little Rock, Ar",
+        "tradeforcategories":["Car","Boat","Bike"],
+		"tradeforspecifics":["Truck","Master Craft","Trek","Mountain"],
+		"img":"C:\\Test\\images\\CarForSale.jpg"
+		
+	
+	}
+	
+	]
+
+}
